@@ -1,5 +1,7 @@
 {
   "name": "rest-express",
+  "private": true,
+  "workspaces": ["client", "server", "shared"],
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
